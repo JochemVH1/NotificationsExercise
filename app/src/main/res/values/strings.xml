@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationsExercise</string>
+    <string name="settings">Settings</string>
+    <string name="info">Info Notification</string>
+    <string name="info_summary">Switching this on will show you a nice piece of information of the application</string>
+    <string name="welcome">This app allows you to turn on notification through the settings window. Simply press the three dots
+    in the upper right corner, click settings, and turn notification on and off. :)</string>
+</resources>
